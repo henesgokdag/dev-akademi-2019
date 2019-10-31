@@ -1,0 +1,27 @@
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.deps.json
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.csproj.CoreCompileInputs.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.AssemblyInfoInputs.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.AssemblyInfo.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb
+C:\Users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.csprojAssemblyReference.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.deps.json
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.csprojAssemblyReference.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.csproj.CoreCompileInputs.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.AssemblyInfoInputs.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.AssemblyInfo.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.deps.json
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.csprojAssemblyReference.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.csproj.CoreCompileInputs.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.AssemblyInfoInputs.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.AssemblyInfo.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi.DataAccess\obj\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb

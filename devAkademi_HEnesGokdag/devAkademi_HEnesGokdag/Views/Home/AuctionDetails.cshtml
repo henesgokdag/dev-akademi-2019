@@ -1,0 +1,66 @@
+﻿@model AuctionModel
+
+@{
+    ViewData["Title"] = Model.title;
+}
+
+<h1>@Model.title</h1>
+
+<div>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="AuctionsByCategory" asp-route-category="@Model.c0">@Model.c0</a></li>
+
+            <li class="breadcrumb-item active" aria-current="page">@Model.c1</li>
+            <li class="breadcrumb-item active" aria-current="page">@Model.c2</li>
+            <li class="breadcrumb-item active" aria-current="page">@Model.c3</li>
+
+
+            @if (Model.c4 != null)
+            {
+                <li class="breadcrumb-item active" aria-current="page">@Model.c4</li>
+            }
+            @if (Model.c5 != null)
+            {
+                <li class="breadcrumb-item active" aria-current="page">@Model.c5</li>
+            }
+            @if (Model.c6 != null)
+            {
+                <li class="breadcrumb-item active" aria-current="page">@Model.c6</li>
+            }
+        </ol>
+    </nav>
+    <hr />
+    <div class="row">
+        <div class="col-sm-2 offset-md-2"><p class="text-black-50">Başlık:</p>  </div>
+        <div class="col-md-8"> <p>@Html.DisplayFor(model => model.title) </p></div>
+
+    </div>
+    <div class="row">
+        <div class="col-sm-2 offset-md-2"><p class="text-black-50">Açıklama:</p>  </div>
+        <div class="col-md-8"> @Html.Raw(Model.description) </div>
+
+    </div>
+    <div class="row">
+        <div class="col-sm-2 offset-md-2"><p class="text-black-50">Ücret:</p>  </div>
+        <div class="col-md-8"> <p>@Html.DisplayFor(model => model.price) </p></div>
+
+    </div>
+    <div class="row">
+        <div class="col-sm-2 offset-md-2"><p class="text-black-50">İlan Gösterilme Sayısı:</p>  </div>
+        <div class="col-md-8"> <p>@Html.DisplayFor(model => model.view_count) </p></div>
+
+    </div>
+    <div class="row">
+        <div class="col-sm-2 offset-md-2"><p class="text-black-50">Şehir:</p>  </div>
+        <div class="col-md-8"> <p>@Html.DisplayFor(model => model.city) </p></div>
+
+    </div>
+    <div class="row">
+        <div class="col-sm-2 offset-md-2"><p class="text-black-50">İlçe:</p>  </div>
+        <div class="col-md-8"> <p>@Html.DisplayFor(model => model.town) </p></div>
+
+    </div>
+    
+</div>
+

@@ -1,0 +1,120 @@
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.deps.json
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.runtimeconfig.json
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.runtimeconfig.dev.json
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.dll
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.pdb
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.dll
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.pdb
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csprojAssemblyReference.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csproj.CoreCompileInputs.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorAssemblyInfo.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorAssemblyInfo.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.AssemblyInfoInputs.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.AssemblyInfo.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.TagHelpers.input.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.TagHelpers.output.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorCoreGenerate.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorTargetAssemblyInfo.cache
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorTargetAssemblyInfo.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.pdb
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.dll
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.pdb
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csproj.CopyComplete
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionDetails.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionList.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_footer.g.cshtml.cs
+c:\users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
+C:\Users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionsByCategory.g.cshtml.cs
+C:\Users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionsMostClicked.g.cshtml.cs
+C:\Users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.g.cshtml.cs
+C:\Users\ns\source\repos\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionSearch.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.deps.json
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.runtimeconfig.json
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.runtimeconfig.dev.json
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.dll
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.pdb
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.dll
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.pdb
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csprojAssemblyReference.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csproj.CoreCompileInputs.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorAssemblyInfo.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorAssemblyInfo.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.AssemblyInfoInputs.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.AssemblyInfo.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.TagHelpers.input.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.TagHelpers.output.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorCoreGenerate.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionDetails.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionList.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionsByCategory.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionSearch.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionsMostClicked.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_footer.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorTargetAssemblyInfo.cache
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorTargetAssemblyInfo.cs
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.pdb
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csproj.CopyComplete
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.dll
+D:\aaa\henesgokdag-devakademi2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.pdb
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.deps.json
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.runtimeconfig.json
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.runtimeconfig.dev.json
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.dll
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.pdb
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.dll
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.pdb
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.dll
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\bin\Debug\netcoreapp2.2\devAkademi.DataAccess.pdb
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csprojAssemblyReference.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csproj.CoreCompileInputs.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorAssemblyInfo.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorAssemblyInfo.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.AssemblyInfoInputs.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.AssemblyInfo.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.TagHelpers.input.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.TagHelpers.output.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorCoreGenerate.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionDetails.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionList.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionsByCategory.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionSearch.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\AuctionsMostClicked.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_footer.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorTargetAssemblyInfo.cache
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.RazorTargetAssemblyInfo.cs
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.Views.pdb
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.csproj.CopyComplete
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.dll
+D:\GitHub Projeleri\dev-akademi-2019\dev-akademi-2019\devAkademi_HEnesGokdag\devAkademi_HEnesGokdag\obj\Debug\netcoreapp2.2\devAkademi_HEnesGokdag.pdb

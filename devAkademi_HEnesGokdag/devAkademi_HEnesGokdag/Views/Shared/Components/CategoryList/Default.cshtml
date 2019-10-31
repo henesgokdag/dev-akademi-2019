@@ -1,0 +1,11 @@
+﻿@model CategoryListModel
+
+@foreach (var item in Model.Categories)
+{
+    
+    <ul class="list-group">
+        <li class="list-group-item   @(Model.SelectedCategory==item.CategoryName?"list-group-item-action active":"")">
+            <a asp-controller="Home" asp-action="AuctionsByCategory" asp-route-category="@item.CategoryName">@item.CategoryName </a></li>
+
+    </ul>
+}
